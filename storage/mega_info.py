@@ -4,9 +4,7 @@
 '''
 1. install MegaCli or megacli
 2. install glibc.i686
-3. deploy megasasctl to /data1/ops/tools/megactl
-4. deploy this to /data1/ops/beacon/
-5. run as root
+3. run as root
 '''
 import ptree
 import commands
